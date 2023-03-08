@@ -4,7 +4,7 @@
 https://github.com/TruongVanHien194276/ProjectIII.git
 
 #### Folder Hardware: Open Arduino IDE
-Kết nối thiết bị và chạy code hệ thống phần cứng với file Hardware.ino
+Connect the device and run the hardware system code with file Hardware.ino
 
 ##### Floder Backend: Open Terminal
 npm install
