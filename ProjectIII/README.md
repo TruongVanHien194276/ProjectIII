@@ -5,11 +5,11 @@ https://github.com/TruongVanHien194276/ProjectIII.git
 Kết nối thiết bị và chạy code hệ thống phần cứng với file Hardware.ino
 
 ##### Floder Backend: Open Terminal
-npm install
-node server.js
+<p>npm install</p>
+<p>node server.js</p>
 
 #### Folder Frontend: Open Terminal
-npm install
-run start
+<p>npm install</p>
+<p>run start</p>
 	
 #### Cổng localhost:8088
