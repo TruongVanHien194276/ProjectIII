@@ -7,11 +7,11 @@ https://github.com/TruongVanHien194276/ProjectIII.git
 Connect the device and run the hardware system code with file Hardware.ino
 
 ##### Floder Backend: Open Terminal
-npm install
-node server.js
+<p>npm install</p>
+<p>node server.js</p>
 
 #### Folder Frontend: Open Terminal
-npm install
-run start
+<p>npm install</p>
+<p>run start</p>
 	
 #### Port localhost:8088
